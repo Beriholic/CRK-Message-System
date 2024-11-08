@@ -1,0 +1,16 @@
+export xyz.beriholic.kotlinwebspring.model.entity.User
+
+UserLoginInput{
+    username
+    password
+}
+
+UserRegisterInput{
+    username
+    password
+}
+
+UserInfo{
+    id
+    username
+}

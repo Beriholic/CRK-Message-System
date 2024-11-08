@@ -1,0 +1,10 @@
+export xyz.beriholic.kotlinwebspring.model.entity.Comment
+
+
+BaseComment{
+    username
+    content
+}
+CreateCommentInput {
+    content
+}
